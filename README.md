@@ -71,7 +71,7 @@ print(value)
 ```
 
 ## Output:
-![output]()
+![output](https://github.com/vijay21500269/Sorting-Algorithm/blob/main/Screenshot%20(32).png)
 ![output]()
 
 
